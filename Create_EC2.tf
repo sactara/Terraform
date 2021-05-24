@@ -9,6 +9,6 @@ resource "aws_instance" "terraform_ec2" {
  }
 }
 provider "github" {
-  token        = "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"
+  token        = "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"
   organization = "Terraform_EC2"
 }
